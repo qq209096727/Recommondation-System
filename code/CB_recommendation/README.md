@@ -38,7 +38,7 @@ e.g. moive: author, title, actor, director....
 
   e.g. 有一样东西大家都说好，但某用户之前并无此类兴趣则不能推荐给该用户
 
-* ​
+* 无法对新用户进行推荐
 
 
 
